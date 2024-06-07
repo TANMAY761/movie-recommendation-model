@@ -8,7 +8,7 @@ This project demonstrates how to build a content-based movie recommendation syst
 The dataset used in this project is movies.csv, which contains information about movies, including genres, keywords, tagline, cast, and director.
 
 ### Requirements
-Python 3.x
+#Python 3.x
 NumPy
 Pandas
 scikit-learn
