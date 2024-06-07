@@ -1,4 +1,4 @@
-# movie-recommendation-model
+# Movie-Recommendation-Model
 Movie Recommendation System
 This project is a movie recommendation system that uses TF-IDF vectorization and cosine similarity to recommend movies based on the user's favorite movie. The system suggests movies that are similar in genres, keywords, tagline, cast, and director.
 
